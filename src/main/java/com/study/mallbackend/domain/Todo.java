@@ -25,7 +25,7 @@ public class Todo {
 
     private boolean complete;
 
-    private LocalDate dudate;
+    private LocalDate duedate;
 
 
 }
